@@ -29,9 +29,7 @@ How It Works
 	4.	Validation:
 	•	Alerts the user if any field is empty before saving.
 
-Setup and Installation
-
-	1.	Clone this repository:
+Clone this repository:
      ```bash
      git clone https://github.com/your-username/password-manager.git
      cd password-manager
@@ -39,8 +37,8 @@ Setup and Installation
 Screenshot
 
 <img width="653" alt="Screenshot 2024-12-05 at 12 25 35 PM" src="https://github.com/user-attachments/assets/479c66d1-fe19-44ac-98e7-3dffd47dcd7e">
-<img width="653" alt="Screenshot 2024-12-05 at 12 26 01 PM" src="https://github.com/user-attachments/assets/d2bf44b2-147c-4407-917a-ced17569e477">
-<img width="653" alt="Screenshot 2024-12-05 at 12 26 55 PM" src="https://github.com/user-attachments/assets/ee2119d6-ae29-44fe-8132-fae4fa2db313">
+<img width="653" alt="Screenshot 2024-12-05 at 12 33 38 PM" src="https://github.com/user-attachments/assets/6c233124-08b3-4df0-abaf-d7c50c8c2bd2">
+<img width="653" alt="Screenshot 2024-12-05 at 12 34 21 PM" src="https://github.com/user-attachments/assets/795253ad-71fb-4725-9ae2-ea1b006ecfa9">
 <img width="653" alt="Screenshot 2024-12-05 at 12 27 35 PM" src="https://github.com/user-attachments/assets/df17b5a0-97df-477d-b78c-e8e8d87ba437">
 
 
