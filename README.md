@@ -37,9 +37,13 @@ Setup and Installation
      cd password-manager
      
 Screenshot
-<img width="630" alt="Screenshot 2024-12-05 at 12 27 35 PM" src="https://github.com/user-attachments/assets/df17b5a0-97df-477d-b78c-e8e8d87ba437">
-<img width="544" alt="Screenshot 2024-12-05 at 12 26 55 PM" src="https://github.com/user-attachments/assets/ee2119d6-ae29-44fe-8132-fae4fa2db313">
-<img width="544" alt="Screenshot 2024-12-05 at 12 26 01 PM" src="https://github.com/user-attachments/assets/d2bf44b2-147c-4407-917a-ced17569e477">
+
 <img width="653" alt="Screenshot 2024-12-05 at 12 25 35 PM" src="https://github.com/user-attachments/assets/479c66d1-fe19-44ac-98e7-3dffd47dcd7e">
+<img width="653" alt="Screenshot 2024-12-05 at 12 26 01 PM" src="https://github.com/user-attachments/assets/d2bf44b2-147c-4407-917a-ced17569e477">
+<img width="653" alt="Screenshot 2024-12-05 at 12 26 55 PM" src="https://github.com/user-attachments/assets/ee2119d6-ae29-44fe-8132-fae4fa2db313">
+<img width="653" alt="Screenshot 2024-12-05 at 12 27 35 PM" src="https://github.com/user-attachments/assets/df17b5a0-97df-477d-b78c-e8e8d87ba437">
+
+
+
 
   
